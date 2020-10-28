@@ -96,7 +96,7 @@ MonoBehaviour:
   m_MinSize: {x: 911, y: 442}
   m_MaxSize: {x: 22006, y: 10021}
   vertical: 0
-  controlID: 39
+  controlID: 58
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -142,7 +142,7 @@ MonoBehaviour:
   m_MinSize: {x: 201, y: 442}
   m_MaxSize: {x: 4001, y: 8042}
   vertical: 1
-  controlID: 40
+  controlID: 59
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -361,9 +361,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 207}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 66fbffff16350000
+      m_SelectedIDs: 4c360000
+      m_LastClickedID: 13900
+      m_ExpandedIDs: 66fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -424,7 +424,7 @@ MonoBehaviour:
     m_PrefName: Preview_InspectorPreview
   m_PreviewWindow: {fileID: 0}
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 0
+  m_LastVerticalScrollValue: 1373.8823
 --- !u!114 &16
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -464,20 +464,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Materiais
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 55
   m_LastFolders:
-  - Assets/Materiais
+  - Assets
   m_LastFoldersGridSize: 55
-  m_LastProjectPath: C:\Users\lss_2\Desktop\New Unity Project
+  m_LastProjectPath: C:\Users\lss_2\Desktop\Ludmila-Samara\New Unity Project
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: ba360000
     m_LastClickedID: 14010
-    m_ExpandedIDs: 00000000b2360000b4360000b8360000
+    m_ExpandedIDs: 00000000b2360000b4360000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -557,7 +557,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 210}
+    m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 55
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 110
