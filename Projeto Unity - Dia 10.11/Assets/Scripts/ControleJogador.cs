@@ -14,12 +14,14 @@ public class ControleJogador : MonoBehaviour
     //cor 3 = rosa
     //cor 4 = verde
     //cor 5 = laranja
+    //cor 6 = azul 
     public Material corbase;
     public Material ciano;
     public Material amarelo;
     public Material rosa;
     public Material verde;
     public Material laranja;
+    public Material azul;
 
 
     // Start is called before the first frame update
@@ -73,6 +75,11 @@ public class ControleJogador : MonoBehaviour
         else if (other.GetComponent<Laranja>() != null)
         {
             this.gameObject.GetComponent<Renderer>().material = laranja;
+
+        }
+        else if (other.GetComponent<azul>() != null)
+        {
+            this.gameObject.GetComponent<Renderer>().material = azul;
 
         }
     }

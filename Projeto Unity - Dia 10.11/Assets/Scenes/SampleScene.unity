@@ -411,7 +411,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 152238880}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ff221bbcd19139b4487eb073f6b9c409, type: 3}
+  m_Script: {fileID: 11500000, guid: ded346d1e202d244f850b8bd2d741d9c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!114 &152238883
@@ -926,7 +926,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: fee2e300d0c1a5f499f3b6ac1123b3bb, type: 2}
+  - {fileID: 2100000, guid: dda132f66f0ee7341b360c25155aba66, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -7748,7 +7748,8 @@ MonoBehaviour:
   amarelo: {fileID: 2100000, guid: 73c90507fcf840f4787aec430cbe491e, type: 2}
   rosa: {fileID: 2100000, guid: a69a2cafeceb92d469f013a51392d08e, type: 2}
   verde: {fileID: 2100000, guid: 8f697139804d73c488c4ed9d818f594b, type: 2}
-  laranja: {fileID: 2100000, guid: fee2e300d0c1a5f499f3b6ac1123b3bb, type: 2}
+  laranja: {fileID: 2100000, guid: dda132f66f0ee7341b360c25155aba66, type: 2}
+  azul: {fileID: 2100000, guid: fee2e300d0c1a5f499f3b6ac1123b3bb, type: 2}
 --- !u!1 &1235122568
 GameObject:
   m_ObjectHideFlags: 0
